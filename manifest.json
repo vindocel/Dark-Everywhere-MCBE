@@ -1,0 +1,23 @@
+{
+  "format_version": 2,
+
+  "header": {
+    "name": "§5Dark Everywhere",
+    "description": "Dark alternative to standard TAB! \n\u00a78By VindoCel \u2022 MC Bedrock Edition ❤",
+    "uuid": "853b7883-2287-4bc0-ba3a-319473d3a055",
+    "version": [ 0, 1, 0 ],
+    "min_engine_version": [ 1, 19, 51 ]
+  },
+  "modules": [
+    {
+      "description": "Dark alternative to standard TAB! \n\u00a78By VindoCel \u2022 MC Bedrock Edition ❤",
+      "type": "resources",
+      "uuid": "2190a38b-6331-4a4d-a18b-2c06f020aae2",
+      "version": [ 0, 1, 0 ]
+    }
+  ],
+  "metadata": {
+    "authors": ["VindoCel"],
+    "url": "https://github.com/vindocel/Dark-Everywhere"
+  }
+}
