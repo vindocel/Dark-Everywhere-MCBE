@@ -29,6 +29,7 @@
 ---
 
 #DESATUALIZADO
+<details>
 <summary>❇️How to help❇️</summary>
 If you want to help, download the photoshop actions ><a href=https://github.com/vindocel/Dark-Everywhere/releases/tag/Actions>here</a><
 
